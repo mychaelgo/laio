@@ -6,4 +6,4 @@
 
 * fork this repository
 * push your change into forked repository
-* Submit PR [here](https://github.com/mychaelgo/laio/issues/new)
+* Submit PR [here](https://github.com/mychaelgo/laio/compare)
